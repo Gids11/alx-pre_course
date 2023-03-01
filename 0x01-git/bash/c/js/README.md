@@ -1,3 +1,1 @@
-bash/school
-#!/bin/bash
-echo "School"
+js/index.js
